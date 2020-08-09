@@ -1,0 +1,9 @@
+Rapporto ERC (05/25/20 17:45:55, Codifica UTF8 )
+
+***** Foglio /
+ErrType(3): Pin connesso ad altro pin ma nessun pin lo pilota
+    @(147.32 mm, 78.74 mm): Componente 6, Piedino Ingresso alimentazione (U1) non connesso (collegamento 1).
+ErrType(3): Pin connesso ad altro pin ma nessun pin lo pilota
+    @(147.32 mm, 93.98 mm): Componente 5, Piedino Ingresso alimentazione (U1) non connesso (collegamento 3).
+
+ ** messaggi ERC: 2  Errori 0  Avvertimenti 2
